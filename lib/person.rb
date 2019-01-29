@@ -1,8 +1,8 @@
 def 
-  class Person
+  class person
     
   end
-  adele_goldberg = Person.new 
-  alan_kay = Person.new
+  adele_goldberg = person.new 
+  alan_kay = person.new
   
 end
